@@ -1,4 +1,4 @@
-# <img src="img/RaspberryPiAndDIYProjectLogo.png" width="850"/><br>raspberrypi-faq
+# <img src="img/RaspberryPiAndDIYProjectLogo.png" width="850"/><br>raspberrypi-and-diy-projects
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/adrianyorke)
