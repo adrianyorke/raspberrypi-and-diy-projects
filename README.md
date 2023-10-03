@@ -8,6 +8,9 @@
 
 A curated list of Raspberry Pi documentation to help beginner and intermediate Raspberry Pi enthusiasts configure Pi devices and build their projects.
 
+The main discussion happens here with our 300K members!
+[Raspberry Pi and DIY Projects Group](https://www.facebook.com/groups/RaspberryPiandDIY)
+
 # Other useful resources
 * [Raspberry Pi Foundation](https://www.raspberrypi.org/)
 * [Official Documentation](https://www.raspberrypi.com/documentation/)
