@@ -12,6 +12,7 @@ A curated list of Raspberry Pi documentation to help beginner and intermediate R
 * [Raspberry Pi Foundation](https://www.raspberrypi.org/)
 * [Hardware - Official Products](https://www.raspberrypi.org/products/)
 * [Software - Raspberry Pi OS (previously called Raspbian)](https://www.raspberrypi.org/software/)
+* [Approved Resellers](https://www.raspberrypi.com/resellers/)
 
 ## Notes for contributors
 
