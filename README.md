@@ -19,6 +19,14 @@ A curated list of Raspberry Pi documentation to help beginner and intermediate R
 ## Notes for contributors
 
 ## Table of contents
+1. Beginner Level Projects<br>
+   * [1.1 Flashing LED](docs/section_01/project_01_01.md)<br>
+   * [1.2 Setting up Pi-hole for Network-wide Ad Blocking](docs/section_01/project_01_02.md)<br>
+
+2. Intermediate Level Projects<br>
+   * [2.1 Overclocking](docs/section_02/project_02_01.md)<br>
+
+3. Advanced Level Projects<br>
 
 ## Contributors ✨
 
