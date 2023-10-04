@@ -19,6 +19,15 @@
         "ideas",
         "review"
       ]
+    },
+    {
+      "login": "ayushsarode",
+      "name": "Ayush Sarodey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72145248?v=4",
+      "profile": "https://github.com/ayushsarode",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
