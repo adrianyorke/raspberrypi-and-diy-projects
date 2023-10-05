@@ -28,6 +28,16 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "sdesani",
+      "name": "Santosh Desani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10603196?v=4",
+      "profile": "https://github.com/sdesani",
+      "contributions": [
+        "code",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
