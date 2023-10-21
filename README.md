@@ -6,9 +6,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/adrianyorke)
 
-A curated list of Raspberry Pi documentation to help beginner and intermediate Raspberry Pi enthusiasts configure Pi devices and build their projects.
+A list of curated Raspberry Pi documentation to help beginners and intermediate users configure Pi devices and build projects.
 
-The main discussion happens [here](https://www.facebook.com/groups/RaspberryPiandDIY) with our 300K members!
+The main discussion takes place [here](https://www.facebook.com/groups/RaspberryPiandDIY) with our 300K members.
 
 # Other useful resources
 * [Raspberry Pi Foundation](https://www.raspberrypi.org/)
@@ -54,4 +54,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
