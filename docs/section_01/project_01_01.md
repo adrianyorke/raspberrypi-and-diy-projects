@@ -2,7 +2,7 @@
 
 ![image](https://github.com/adrianyorke/raspberrypi-and-diy-projects/assets/115374818/aec01774-cd41-48e8-87e9-04dd38dbd5f4)
 
-<h3>Step 1: Needed Components</h3>
+## Step 1: Needed Components
 
 ![image](https://github.com/adrianyorke/raspberrypi-and-diy-projects/assets/115374818/b0ce094c-5a26-4f9a-9ea0-95b2850135aa)
 
@@ -19,7 +19,7 @@ For the build, you will need the following:
 
 
 
-<h3>Step 2: Building the Circuit</h3>
+## Step 2: Building the Circuit
 
 ![image](https://github.com/adrianyorke/raspberrypi-and-diy-projects/assets/115374818/9b35a060-d61c-4ee0-bf84-74dd27c85a70)
 
@@ -27,33 +27,38 @@ Every LED has two sides - one negative and one positive. Choose the negative one
 
 
 
-<h3>Step 3: Setting Up the Raspberry</h3>
+## Step 3: Setting Up the Raspberry
 
 ![image](https://github.com/adrianyorke/raspberrypi-and-diy-projects/assets/115374818/9757e8ca-f26a-4c0f-a893-5771dc88487b)
 
 Enter the following command:
 
-<b>sudo apt-get install python</b>
+```
+sudo apt-get install python
+```
 
 or
 
-<b>sudo apt-get install python3</b>
+```
+sudo apt-get install python3
+```
 
 (depending on the version that you choose)
 
 
 
-<h3>Step 4: Writing the Program</h3>
+## Step 4: Writing the Program</h3>
 
 ![image](https://github.com/adrianyorke/raspberrypi-and-diy-projects/assets/115374818/4e43dd28-870d-4e3e-b0fc-69d2cc9c1053)
 
 You need to use a simple text editor called nano, so enter the command sudo nano <b>file-name.py</b>
 
 * Where file-name is a name of your choice. Remember it, we will need it later!
-* 
+
 
 Paste the following code in the newly-created file:
-<b>
+
+```
 
 import RPi.GPIO as GPIO
 
@@ -75,10 +80,10 @@ print "LED off"
 
 GPIO.output(18,GPIO.LOW)
 
-</b>
+```
 
 
-<h3>Step 5: Running the Program</h3>
+## Step 5: Running the Program</h3>
 
 ![image](https://github.com/adrianyorke/raspberrypi-and-diy-projects/assets/115374818/a96e7e48-c88b-45bc-b909-f9e55e46e7de)
 
