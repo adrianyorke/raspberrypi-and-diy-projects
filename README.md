@@ -1,6 +1,6 @@
 # <img src="img/RaspberryPiAndDIYProjectLogo.png" width="850"/><br>raspberrypi-and-diy-projects
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -45,6 +45,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ayushsarode"><img src="https://avatars.githubusercontent.com/u/72145248?v=4?s=100" width="100px;" alt="Ayush Sarodey"/><br /><sub><b>Ayush Sarodey</b></sub></a><br /><a href="https://github.com/adrianyorke/raspberrypi-and-diy-projects/commits?author=ayushsarode" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/sdesani"><img src="https://avatars.githubusercontent.com/u/10603196?v=4?s=100" width="100px;" alt="Santosh Desani"/><br /><sub><b>Santosh Desani</b></sub></a><br /><a href="https://github.com/adrianyorke/raspberrypi-and-diy-projects/commits?author=sdesani" title="Code">💻</a> <a href="#maintenance-sdesani" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Pariharx7"><img src="https://avatars.githubusercontent.com/u/94682026?v=4?s=100" width="100px;" alt="Himanshu Parihar"/><br /><sub><b>Himanshu Parihar</b></sub></a><br /><a href="https://github.com/adrianyorke/raspberrypi-and-diy-projects/commits?author=Pariharx7" title="Code">💻</a> <a href="#maintenance-Pariharx7" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/RitikKumarParvat"><img src="https://avatars.githubusercontent.com/u/115374818?v=4?s=100" width="100px;" alt="Ritik Kumar Parvat"/><br /><sub><b>Ritik Kumar Parvat</b></sub></a><br /><a href="https://github.com/adrianyorke/raspberrypi-and-diy-projects/commits?author=RitikKumarParvat" title="Code">💻</a> <a href="https://github.com/adrianyorke/raspberrypi-and-diy-projects/commits?author=RitikKumarParvat" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
