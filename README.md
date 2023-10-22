@@ -19,8 +19,7 @@ The main discussion happens [here](https://www.facebook.com/groups/RaspberryPian
 * [The Magpi Magazine](https://magpi.raspberrypi.com/)
 
 ## Notes for contributors
-**Contributions from the wider community are most welcome! Please follow the instructions [here](https://github.com/ayushsarode/raspberrypi-and-diy-projects/blob/master/CONTRIBUTING.md).**
-
+**Contributions from the wider community are most welcome! Please follow the instructions [here](https://github.com/adrianyorke/raspberrypi-and-diy-projects/blob/master/CONTRIBUTING.md).**
 
 ## Table of contents
 1. Beginner Level Projects<br>
